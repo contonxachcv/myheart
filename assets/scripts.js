@@ -7,9 +7,9 @@ import { makeMat } from "./mins.js";
 if (!window["Heartlove"]) {
   window.Heartlove = {
     data: {
-      messages: ["Anh yêu em", "mãi yêu em", "Thật sự yêu em rất nhiều đó"],
+      messages: ["Anh Nhớ Em", "Yêu em nhiều lắm, "T"],
       images: [],
-      heartColor: "#ff9090",
+      heartColor: "#FFFF00",
     },
   };
 }
